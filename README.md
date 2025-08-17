@@ -1,0 +1,2 @@
+# Predicting-Annual-Medical-Expenditure-with-Machine-Learning
+Efficiently implemented linear regression to predict the medical charges from demographic and lifestyle attributes  Conducted data preprocessing &amp; EDA (encoding, correlations &amp; visualization) to identify drivers of healthcare costs  Analyzed regression coeff &amp; model performance, identifying smoking status, BMI &amp; age as key predictors of charges
